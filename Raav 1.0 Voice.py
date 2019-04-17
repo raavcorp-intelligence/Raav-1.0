@@ -3,7 +3,6 @@
 #__________________________Imports___________________________________________
 import wolframalpha
 import os
-import speedtest
 import wikipedia
 import speech_recognition as SR
 import math
